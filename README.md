@@ -1,4 +1,4 @@
-## This Repository Contains my DSA Problems Along with Solutions that I Solved in Leetcode.
+## This Repository Contains my DSA Problems Along with Solutions that I Solved in Leetcode.  
 ### Key Topics Covered :  
 ---
 - Array
@@ -7,9 +7,9 @@
 - Queue
 - Linked List
 ---
-- Maps
-- Vector
 - Set
+- Vector
+- Map
 ---
 - Two Pointers
 - Sliding Window
