@@ -1,8 +1,8 @@
 ## Valid Palindrome  
-
+  
 Method 1 :  
-Two Pointer Approach
-
+Two Pointer Approach  
+  
 ```cpp
 class Solution {
 public:
@@ -32,9 +32,9 @@ public:
     }
 };
 ```
-
+  
 Method 2 :  
-Reverse String, then Equating with Original
+Reverse String, then Equating with Original  
   
 ```cpp
 class Solution 
@@ -60,5 +60,6 @@ public:
     }
 };
 ```
+
 
 
