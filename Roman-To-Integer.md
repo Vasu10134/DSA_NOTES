@@ -21,7 +21,7 @@ Given a roman numeral, convert it to an integer.
 ---  
   
 Method 1 :  
-Using Maps
+Using Maps(unordered map)
   
 ```cpp
 class Solution 
@@ -29,7 +29,7 @@ class Solution
 public:
     int romanToInt(string s) 
     {
-        map<char, int> mp;
+        unordered_map<char, int> mp;
         mp.insert(make_pair('I',1));
         mp.insert(make_pair('V',5));
         mp.insert(make_pair('X',10));
@@ -51,4 +51,3 @@ public:
     }
 };
 ```
-
